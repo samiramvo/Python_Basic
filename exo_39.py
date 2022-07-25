@@ -1,0 +1,8 @@
+print("Entrez le montant:")
+mont=int(input())
+print("Entrez le taux d'intèret:")
+interet=float(input())
+print("Entrez l'année:")
+année=int(input())
+value=mont*((1+(0.01*interet))**année)
+print(value)

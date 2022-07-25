@@ -1,0 +1,5 @@
+print("Entrez une chaine de caractère:")
+chaine=str(input())
+print("Entrez un entier:")
+ent=int(input())
+print(chaine*ent)

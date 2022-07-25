@@ -1,0 +1,6 @@
+print("Entrez une taille:")
+print("Entrez le nombre de pieds:")
+pied= int(input())
+print("Entrez le nlmbres de pouces:")
+pouces= int(input())
+print("La taille en centimetre est: ",(pied*30.48)+(pouces*2.54)," cm")

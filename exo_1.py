@@ -1,0 +1,2 @@
+print("Scintille,scintille,petite étoile.    \n    Comment je me demande ce que tu es.\n    Au dessus du monde.\n    Comme un diamant dans le ciel\n")
+print("Scintille,scintille,petite étoile.Comment je me demande ce que tu es.")

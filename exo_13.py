@@ -1,0 +1,1 @@
+print("""une chaine que vous "n'avez pas" à \néchapper\nCeci\nest une .......chaine heredoc multiligne---->\nexemple""")

@@ -1,0 +1,5 @@
+print("Entrez la distance en pieds:")
+distance=int(input())
+print("La distance en pouce donne:", distance*12,"pouces")
+print("La distance en yards donne:",distance/3,"yards")
+print("La distance en milles donne:",distance/5280,"miles")

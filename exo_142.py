@@ -1,0 +1,1 @@
+print("Entrez une séquence de 0 et de 1:")

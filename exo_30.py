@@ -1,0 +1,6 @@
+print("Calcul de l'aire du triangle:")
+print("Entrez la valeur de la base:")
+base=int(input())
+print("Entrez la valeur de la hauteur:")
+hauteur=int(input())
+print("L'aire du triangle est ",(base*hauteur)/2)

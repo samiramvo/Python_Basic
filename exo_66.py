@@ -1,0 +1,6 @@
+print("Calcul de l' IMC:")
+print("Entrez votre poids en kg:")
+poid=int(input())
+print("Entrez votre taille:")
+taille=int(input())
+print("L'IMC donne :",(poid/(taille**2))*10000)

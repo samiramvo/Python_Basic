@@ -1,0 +1,5 @@
+print("Entrez la pression en kilopascal :")
+pression=float(input())
+print("La valeur de la pression en livres par pouces carré: ",pression/6.89475729)
+print("La valeur de la pression en mmHg",pression*760/101.325)
+print("La valeur de la pression atmosphérique:",pression/101.325)
